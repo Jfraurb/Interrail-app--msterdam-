@@ -1,0 +1,15 @@
+{
+  "name": "Ámsterdam en bici — Guía de 1 día",
+  "short_name": "Ámsterdam bici",
+  "description": "Ruta interactiva de 1 día en bicicleta por Ámsterdam, con mapa, timeline y consejos.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#123A45",
+  "theme_color": "#123A45",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
